@@ -4,4 +4,4 @@ Repositori ini berisi berbagai tugas praktikum dan proyek yang saya kerjakan, te
 
 ## 📁 Daftar Tugas
 
-- [`tugas-image-enhancement/`](tugas-image-enhancement/) - Peningkatan kualitas gambar menggunakan teknik Histogram Equalization, CLAHE, dll.
+- [`CVL_Assignment01/`](CVL_Assignment01/) - Peningkatan kualitas gambar menggunakan teknik Histogram Equalization, CLAHE, dll.
