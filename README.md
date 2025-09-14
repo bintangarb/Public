@@ -4,4 +4,4 @@ Repositori ini berisi berbagai tugas praktikum dan proyek yang saya kerjakan, te
 
 ## 📁 Daftar Tugas
 
-- [`CVL_Assignment01/`](CVL_Assignment01/) - Peningkatan kualitas gambar menggunakan teknik Computer Vision
+- [CVL_Assignment01.ipynb](CVL_Assignment01.ipynb) - Peningkatan kualitas gambar menggunakan teknik Computer Vision
